@@ -5,8 +5,8 @@ import json
 from fineprint_agent import analyze_fine_print
 from stagehand_reader import get_fineprint_text
 
-st.set_page_config(page_title="FinePrintFinder", layout="centered")
-st.title("🕵️ FinePrintFinder")
+st.set_page_config(page_title="FinePrintReader", layout="centered")
+st.title("🕵️ FinePrintReader")
 
 # Initialize session state for extraction
 if "extracted_text" not in st.session_state:
