@@ -1,4 +1,4 @@
-# 🕵️ FinePrintFinder
+# 🕵️ FinePrintReader
 
 **Automatically extract and analyze “fine print” (Terms & Conditions, policies, etc.) from any webpage or pasted text, flag hidden risks, and get actionable recommendations—in clean JSON.**
 
